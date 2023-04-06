@@ -8,4 +8,4 @@ This project has been executed flawlessly by optimizing the model and implementi
 
 We're passionate about sharing our expertise and experience in combining AI with 3D space on websites. Let's continue exploring the limitless possibilities of AI and 3D space together.
 
-![My Remote Image]([https://www.dropbox.com/s/.../my-remote-image.jpg?dl=0](https://media.licdn.com/dms/image/D5622AQFtQJOnLXjgKA/feedshare-shrink_2048_1536/0/1680697085172?e=1683763200&v=beta&t=L5EeMY_xwcoT58oE88TRsgmP-OH2Khew409V2KLbIQI))
+![My Remote Image]
