@@ -1,6 +1,6 @@
 showcasing the future of product customization with OpenAI Three.js 3D Product Website. As a web developers and designer I have collaborated to bring you an exciting new experience combining AI with 3D space on websites.
 
-My aim is to create immersive experiences that inspire and delight users. We've used powerful tools such as React Three Fiber, Tailwindcss, Framer Motion, and Dall.E AI to create a product display page with a 3D T-shirt that animates to the center of the screen upon clicking the customize button.
+My aim is to create immersive experiences that inspire and delight users. We've used powerful tools such as React Three Fiber, Tailwindcss, Framer Motion, and Dall.E 2 AI to create a product display page with a 3D T-shirt that animates to the center of the screen upon clicking the customize button.
 
 Users can change the T-shirt's color, upload their own logo or texture, or even request AI to generate a customized logo or texture. Once satisfied with their design, users can toggle the logo and texture on or off and download the customized T-shirt.
 
